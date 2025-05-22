@@ -1,0 +1,9 @@
+datasets
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+matplotlib       # for plotting confusion matrix (and any other charts)
+pandas           # handy for CSV I/O and tabular metrics
+psutil           # if you’re reporting memory‐usage in your indexing step
+tqdm             # optional, for progress bars during embedding/index builds
