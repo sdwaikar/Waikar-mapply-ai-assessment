@@ -1,9 +1,9 @@
-datasets
-sentence-transformers
-faiss-cpu
-numpy
-scikit-learn
+datasets>=2.14.0
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+faiss-cpu>=1.7.4
+tqdm>=4.65.0
 matplotlib       # for plotting confusion matrix (and any other charts)
-pandas           # handy for CSV I/O and tabular metrics
-psutil           # if you’re reporting memory‐usage in your indexing step
-tqdm             # optional, for progress bars during embedding/index builds
+psutil           # if you're reporting memory‐usage in your indexing step
