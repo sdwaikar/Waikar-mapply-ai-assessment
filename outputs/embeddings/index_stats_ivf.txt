@@ -1,0 +1,5 @@
+Index type: ivf
+Embedding dimension: 384
+Vectors indexed: 7336
+Indexing time: 0.08 seconds
+Memory usage: 79.41 MB

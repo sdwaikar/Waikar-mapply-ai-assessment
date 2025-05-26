@@ -1,0 +1,4 @@
+Relaxed Accuracy (all predicted in true): 0.7083
+Samples Precision: 0.8067
+Samples Recall: 0.4802
+Samples F1-score: 0.5895

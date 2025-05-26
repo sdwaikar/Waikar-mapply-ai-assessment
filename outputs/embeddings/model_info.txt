@@ -1,0 +1,4 @@
+Model used: sentence-transformers/all-MiniLM-L6-v2
+Input: product_title + about_product
+Embedding dimension: 384
+Samples: 7336
